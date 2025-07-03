@@ -1,0 +1,17 @@
+# Ignore object files
+*.o
+
+# Ignore compiled binaries (Windows)
+*.exe
+
+# Ignore compiled binaries (Linux/macOS)
+a.out
+
+# Ignore backup files created by editors
+*~
+
+# Ignore core dumps
+core
+
+# Ignore build directories (optional)
+build/
